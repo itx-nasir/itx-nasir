@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Python Backend Developer | ☁️ Cloud Enthusiast | 🧠 AI/ML/NLP Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&width=500&lines=Building+Scalable+Microservices+with+Python;Crafting+Cloud-Native+Applications;Developing+AI%2C+ML%2C+and+NLP+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&width=600&lines=Building+Scalable+Microservices+with+Python;Crafting+Cloud-Native+Applications;Developing+AI%2C+ML%2C+and+NLP+Solutions" alt="Typing SVG" />
 </p>
 
 ---
