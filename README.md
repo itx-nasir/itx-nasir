@@ -26,7 +26,7 @@
 | Project | Description |
 |:---|:---|
 | [Amaia - Cloud-native Crypto Trading Platform](https://amaia.io/) | Async Python microservices supporting 100K+ concurrent users. |
-| [Courier Label Recognition API](https://github.com/https://packagex.io/ocr-api) | REST API processing 500K+ shipping labels daily with 92%+ accuracy. |
+| [Courier Label Recognition API](https://packagex.io/ocr-api) | REST API processing 500K+ shipping labels daily with 92%+ accuracy. |
 | [NasirPy - Lightweight Python Web Framework](https://github.com/itx-nasir/NasirPy) | Mini Flask-like framework demonstrating deep Python understanding. |
 | [Face Mask Detection System](https://github.com/itx-nasir/Deep-Learning-Projects) | Real-time mask detection with 94%+ accuracy using VGG19 & Haar Cascades. |
 
