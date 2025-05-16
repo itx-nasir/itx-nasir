@@ -7,17 +7,31 @@
 
 ---
 
-## 🛠️ Core Skills
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
+## 🛠️ Technical Stack
+
+### 🐍 Python Ecosystem
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 ---
 
@@ -35,12 +49,28 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itx-nasir&show_icons=true&theme=tokyonight" alt="Nasir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itx-nasir&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=prs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itx-nasir&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itx-nasir&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itx-nasir&layout=compact&theme=tokyonight" />
 </p>
 
+  **Note about C+ in stats**: The language detection shows C+ for some Python repositories because:
+1. GitHub's linguist counts Jupyter notebooks and some Python build files differently
+2. Some projects contain Cython or C extensions for performance
+3. It's a known GitHub quirk that sometimes misclassifies Python projects
+
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itx-nasir&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 
 ## 📫 Let's Connect
 
