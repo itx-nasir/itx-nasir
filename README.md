@@ -69,12 +69,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|:---|:---|
-| [Amaia - Cloud-native Crypto Trading Platform](https://amaia.io/) | Async Python microservices supporting 100K+ concurrent users. |
-| [Courier Label Recognition API](https://packagex.io/ocr-api) | REST API processing 500K+ shipping labels daily with 92%+ accuracy. |
-| [NasirPy - Lightweight Python Web Framework](https://github.com/itx-nasir/NasirPy) | Mini Flask-like framework demonstrating deep Python understanding. |
-| [Face Mask Detection System](https://github.com/itx-nasir/Deep-Learning-Projects) | Real-time mask detection with 94%+ accuracy using VGG19 & Haar Cascades. |
+| 🎯 **Project** | 📋 **Description** | 🛠️ **Tech** | 📊 **Impact** |
+|:---|:---|:---:|:---:|
+| **[🚀 Amaia](https://amaia.io/)**<br>*Crypto Trading Platform* | High-performance async Python microservices for institutional crypto trading with real-time market data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square) | **100K+** Users<br>🌟 Production |
+| **[📦 Courier OCR API](https://packagex.io/ocr-api)**<br>*Enterprise OCR Solution* | Production REST API with computer vision and ML for automated shipping label data extraction. | ![CV](https://img.shields.io/badge/Computer_Vision-FF6B35?style=flat-square)<br>![API](https://img.shields.io/badge/REST_API-009688?style=flat-square) | **500K+** Daily<br>**92%+** Accuracy |
+| **[🎓 Student Management](https://github.com/itx-nasir/Student-Management-System)**<br>*Educational Platform* | Django-based school management system with student enrollment, staff management, and financial tracking.<br>**🏫 Used by real school** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **Live School**<br>🌟 Production |
+| **[⚡ NasirPy](https://github.com/itx-nasir/NasirPy)**<br>*Python Web Framework* | Custom Flask-inspired framework demonstrating deep Python internals and WSGI protocol understanding. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![WSGI](https://img.shields.io/badge/WSGI-4B8BBE?style=flat-square) | **Educational**<br>🔧 Open Source |
+| **[🎭 Face Mask Detection](https://github.com/itx-nasir/Deep-Learning-Projects)**<br>*Computer Vision System* | Real-time mask detection using VGG19 neural networks and Haar Cascade classifiers. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)<br>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | **94%+** Accuracy<br>⚡ Real-time |
 
 ---
 
