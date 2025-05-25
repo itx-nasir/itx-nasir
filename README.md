@@ -41,8 +41,8 @@
 ### 📊 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🗄️ Databases
@@ -61,6 +61,7 @@
 ### 🧪 Testing & Methodologies
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=testlio&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4A?style=for-the-badge&logo=playwright&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-5D9B63?style=for-the-badge&logo=tdd&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0091D5?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
