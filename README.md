@@ -88,11 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itx-nasir&layout=compact&theme=tokyonight&source=gh_nx" alt="Top Languages - nasir_dev_track" />
 </p>
 
-  **Note about C+ in stats**: The language detection shows C+ for some Python repositories because:
-1. GitHub's linguist counts Jupyter notebooks and some Python build files differently
-2. Some projects contain Cython or C extensions for performance
-3. It's a known GitHub quirk that sometimes misclassifies Python projects
-
 ---
 
 ## 🏆 GitHub Trophies
